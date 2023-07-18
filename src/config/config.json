@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
-    "base_path": "/",
+    "title": "NordicBytes",
+    "base_url": "nordicbytes.waldschock.com",
+    "base_path": "/blog",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "NordicBytes"
   },
 
   "settings": {
@@ -17,7 +17,7 @@
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
-    "pagination": 2,
+    "pagination": 8,
     "summary_length": 200,
     "blog_folder": "blog"
   },

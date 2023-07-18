@@ -2,6 +2,7 @@
   "main": [
     {
       "name": "Blog",
+      "title": "NordicBytes | Blog",
       "url": "/blog"
     },
     {
